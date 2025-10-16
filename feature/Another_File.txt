@@ -5,3 +5,5 @@ This file ws modified locally.
 This line was added in feature-2 branch.
 
 Made another change in the feature-2 branch to show feature-2 upstream.
+
+Another change in the feature-2 branch.
